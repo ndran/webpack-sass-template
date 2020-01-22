@@ -3,7 +3,8 @@
 * jQuery
 * Bootstrap
 * Font Awesome
-** Vue components are referenced incase Vue is added
+
+_Vue components are commented out but referenced, incase Vue is added_
 
 ## Scripts
 * `npm run build` for production
