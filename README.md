@@ -1,1 +1,1 @@
-# webpack-bootstrap-boiler
+# webpack-sass-template
