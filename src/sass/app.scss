@@ -1,0 +1,23 @@
+// Dependencies
+@import '~bootstrap/scss/bootstrap';
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts'; 
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+
+// Variables
+@import 'variables';
+
+// Pages
+@import "pages/home";
+
+// Components
+@import "components/buttons";
+@import "components/fonts";
+@import "components/forms";
+@import "components/lists";
+@import "components/tables";
+@import 'components/typography';
+
+// Global
+@import "global";
